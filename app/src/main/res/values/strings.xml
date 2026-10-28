@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Whisper 2-bit</string>
+    <string name="share_target_label">Transcribe with Whisper 2-bit</string>
+</resources>
